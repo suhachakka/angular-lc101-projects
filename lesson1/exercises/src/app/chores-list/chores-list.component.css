@@ -1,0 +1,17 @@
+.chores{
+    color:red;
+    text-align: center;  
+    padding-top: 0px;
+    float: right; 
+    margin-top: 0;
+}
+.chores h3{
+    text-decoration: underline;
+    font-size:30px;
+    
+}
+.chores ul{
+    font-style: italic;
+    text-align: center;
+    display: inline-block;
+}

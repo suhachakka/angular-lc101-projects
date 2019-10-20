@@ -1,0 +1,16 @@
+.favlinks{
+    text-align: center;
+    font-size:20px;
+}
+.favlinks a:hover{
+    color:blueviolet;
+}
+h3{
+text-align: center;    
+text-decoration: underline;
+right:50px;
+}
+.line{
+    border-top: 1px solid red;
+ }
+    

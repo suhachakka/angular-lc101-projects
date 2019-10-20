@@ -1,0 +1,15 @@
+.movies{
+    color:#0000ff;
+    text-align:center;
+    float:left;
+}
+
+.movies h3{
+    text-align: center;
+    font-size: 30px;
+    display:inline-block;
+}
+.movies ol{
+    padding-bottom: 100px;
+
+}

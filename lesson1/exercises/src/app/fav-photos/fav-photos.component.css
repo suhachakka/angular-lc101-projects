@@ -3,9 +3,22 @@ h3 {
 }
 
 img {
-
+   height: 100px;
+   width: 100px;
+   position: relative;
 }
 
 .photos {
    text-align: center;
 }
+hr{
+   width:200%;
+   height:200%;
+}
+.h-divider{
+   margin-top:5px;
+   margin-bottom:5px;
+   height:1px;
+   width:100%;
+   border-top:1px solid gray;
+  }
